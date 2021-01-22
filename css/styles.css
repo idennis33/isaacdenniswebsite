@@ -474,6 +474,11 @@ mark,
   content: "— ";
 }
 
+.pro-img{
+  max-width: 500px;
+  max-height: 500px;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
